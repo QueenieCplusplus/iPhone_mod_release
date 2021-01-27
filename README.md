@@ -16,6 +16,8 @@ Features of Peripheral
    * Touch ID within Touch Finger Print
    
    * iSight Image Sensor
+   
+   * 64-bit CPU
 
   ![](https://raw.githubusercontent.com/QueenieCplusplus/iPhone_mod_release/main/iphone5S_2013.png)
 
