@@ -21,7 +21,7 @@ Features of Peripheral
 
   ![](https://raw.githubusercontent.com/QueenieCplusplus/iPhone_mod_release/main/iphone5S_2013.png)
 
-* SE in 2016
+* SE in 2016 => 版主擁有此型號的愛鳳
 
    * advanced CPU & GPU
    
@@ -45,7 +45,7 @@ Features of Peripheral
 
   ![](https://raw.githubusercontent.com/QueenieCplusplus/iPhone_mod_release/main/iphone8_2017.png)
 
-* XS in 2018
+* XS in 2018 => 版主有類似功能的 Google Pixel
 
   * Dual SIM standby
   
@@ -55,7 +55,7 @@ Features of Peripheral
   
   * FaceID
   
-  * 
+  * Rear-Front Camera
 
  ![](https://raw.githubusercontent.com/QueenieCplusplus/iPhone_mod_release/main/iphoneXS_2018.png)
 
