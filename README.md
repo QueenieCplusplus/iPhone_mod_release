@@ -33,7 +33,11 @@ Features of Peripheral
 
   ![](https://raw.githubusercontent.com/QueenieCplusplus/iPhone_mod_release/main/iphoneSE_2016.png)
 
-* 8 in 2017
+* 8 plus in 2017
+
+   * Wireless Charging
+   
+   * Water Proof
 
   ![](https://raw.githubusercontent.com/QueenieCplusplus/iPhone_mod_release/main/iphone8_2017.png)
 
