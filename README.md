@@ -38,6 +38,10 @@ Features of Peripheral
    * Wireless Charging
    
    * Water Proof
+   
+   * Double Camera
+   
+   * Advanced CPU & GPU
 
   ![](https://raw.githubusercontent.com/QueenieCplusplus/iPhone_mod_release/main/iphone8_2017.png)
 
