@@ -26,3 +26,5 @@ Features of Peripheral
  ![](https://raw.githubusercontent.com/QueenieCplusplus/iPhone_mod_release/main/iphone11Pro_2019.png)
 
 * 12 Pro in 2020
+
+ ![](https://raw.githubusercontent.com/QueenieCplusplus/iPhone_mod_release/main/iphone12pro_2020.png)
