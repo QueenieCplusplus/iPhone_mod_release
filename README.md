@@ -44,6 +44,13 @@ Features of Peripheral
    * Advanced CPU & GPU
 
   ![](https://raw.githubusercontent.com/QueenieCplusplus/iPhone_mod_release/main/iphone8_2017.png)
+  
+  
+------------------------------------------------------------------------------------
+
+                          Fringe Style Screen 
+    
+------------------------------------------------------------------------------------
 
 * XS in 2018 => 版主有類似功能的 Google Pixel
 
