@@ -48,6 +48,10 @@ Features of Peripheral
 * XS in 2018
 
   * Dual SIM standby
+  
+  * OLED Screen
+  
+  * Bionic Chip
 
  ![](https://raw.githubusercontent.com/QueenieCplusplus/iPhone_mod_release/main/iphoneXS_2018.png)
 
