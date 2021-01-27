@@ -66,6 +66,8 @@ Features of Peripheral
   * support 2 pairs of AirPods/Beats
   
   * Dual SIM standby
+  
+  * Bionic Chip
 
  ![](https://raw.githubusercontent.com/QueenieCplusplus/iPhone_mod_release/main/iphone11Pro_2019.png)
 
