@@ -19,6 +19,7 @@ Features of Peripheral
 
 * XS in 2018
 
+ ![](https://raw.githubusercontent.com/QueenieCplusplus/iPhone_mod_release/main/iphoneXS_2018.png)
 
 * 11 Pro in 2019
 
