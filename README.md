@@ -3,6 +3,7 @@ Features of Peripheral
 
 * 4S in 2011
 
+  ![](https://raw.githubusercontent.com/QueenieCplusplus/iPhone_mod_release/main/iphone4S_2011.png)
 
 * 5S in 2013
 
