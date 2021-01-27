@@ -61,6 +61,8 @@ Features of Peripheral
 
 * 11 Pro in 2019
 
+  * NFC support Apple Pay
+
   * BLE 5.0, 2x2 MIMO Wi-Fi 6（IEEE 802.11ax）,4x4 MIMO LAA Gigabit 等級 LTE
   
   * support 2 pairs of AirPods/Beats
