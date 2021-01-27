@@ -7,6 +7,7 @@ Features of Peripheral
 
 * 5S in 2013
 
+  ![](https://raw.githubusercontent.com/QueenieCplusplus/iPhone_mod_release/main/iphone5S_2013.png)
 
 * SE in 2016
 
