@@ -67,7 +67,9 @@ Features of Peripheral
   
   * Dual SIM standby
   
-  * Bionic Chip
+  * Ａ13 Bionic Chip
+  
+  * 3 Rear Camera within diff Aperture
 
  ![](https://raw.githubusercontent.com/QueenieCplusplus/iPhone_mod_release/main/iphone11Pro_2019.png)
 
