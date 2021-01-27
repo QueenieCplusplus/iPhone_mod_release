@@ -90,6 +90,8 @@ Features of Peripheral
   * 擁有 SE 一代的 Touch ID + 8 的防水和 Qi 無線充電
   
   * NFC
+  
+  * Backup Battery Life
 
  ![](https://raw.githubusercontent.com/QueenieCplusplus/iPhone_mod_release/main/iphoneSE2_2020.png)
 
