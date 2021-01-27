@@ -80,7 +80,7 @@ Features of Peripheral
  
 * SE 2 in 2020
 
-
+ ![](https://raw.githubusercontent.com/QueenieCplusplus/iPhone_mod_release/main/iphoneSE2_2020.png)
 
 * 12 Pro in 2020
 
