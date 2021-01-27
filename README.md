@@ -12,7 +12,7 @@ Features of Peripheral
 
 * 4S in 2011 (打敗安卓手機的代表作)
 
-   * Siri
+   * SiriSpeech Interpretation and Recognition Interface
    
    * 8 M pixel
    
