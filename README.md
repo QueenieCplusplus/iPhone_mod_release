@@ -76,6 +76,11 @@ Features of Peripheral
   * 3 Rear Camera within diff Aperture
 
  ![](https://raw.githubusercontent.com/QueenieCplusplus/iPhone_mod_release/main/iphone11Pro_2019.png)
+ 
+ 
+* SE 2 in 2020
+
+
 
 * 12 Pro in 2020
 
