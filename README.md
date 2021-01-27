@@ -52,6 +52,10 @@ Features of Peripheral
   * OLED Screen
   
   * Bionic Chip
+  
+  * FaceID
+  
+  * 
 
  ![](https://raw.githubusercontent.com/QueenieCplusplus/iPhone_mod_release/main/iphoneXS_2018.png)
 
