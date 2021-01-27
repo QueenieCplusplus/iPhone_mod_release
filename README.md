@@ -64,6 +64,8 @@ Features of Peripheral
   * BLE 5.0, 2x2 MIMO Wi-Fi 6（IEEE 802.11ax）,4x4 MIMO LAA Gigabit 等級 LTE
   
   * support 2 pairs of AirPods/Beats
+  
+  * Dual SIM standby
 
  ![](https://raw.githubusercontent.com/QueenieCplusplus/iPhone_mod_release/main/iphone11Pro_2019.png)
 
