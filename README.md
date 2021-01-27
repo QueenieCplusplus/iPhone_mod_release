@@ -11,6 +11,7 @@ Features of Peripheral
 
 * SE in 2016
 
+  ![](https://raw.githubusercontent.com/QueenieCplusplus/iPhone_mod_release/main/iphoneSE_2016.png)
 
 * 8 in 2017
 
