@@ -15,6 +15,7 @@ Features of Peripheral
 
 * 8 in 2017
 
+  ![](https://raw.githubusercontent.com/QueenieCplusplus/iPhone_mod_release/main/iphone8_2017.png)
 
 * XS in 2018
 
