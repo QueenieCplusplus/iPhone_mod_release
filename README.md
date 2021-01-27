@@ -28,6 +28,8 @@ Features of Peripheral
    * 玫瑰金色
    
    * 12 M pixel
+   
+   * Retina Display
 
   ![](https://raw.githubusercontent.com/QueenieCplusplus/iPhone_mod_release/main/iphoneSE_2016.png)
 
